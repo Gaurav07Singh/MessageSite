@@ -1,0 +1,24 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+html{
+    border:12px solid;
+    border-image-source: linear-gradient(
+        45deg,
+        #FF52E5,
+        #F6D242
+    );
+    border-image-slice: 1;
+
+}
+html, body{
+    max-width: 100%;
+    text-align: center;
+    padding: 4em;
+    font-family: 'Anonymous Pro', monospace;
+    overflow-x: auto;
+   
+  
+}
+
